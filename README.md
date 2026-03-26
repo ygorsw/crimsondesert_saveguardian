@@ -16,6 +16,7 @@ Automatically backs up your save every X minutes
 Fully configurable interval
 Keeps a fixed number of backups (rotating system)
 Old backups are automatically replaced
+<img width="1414" height="927" alt="image" src="https://github.com/user-attachments/assets/622b6f18-2694-4ae0-906c-bbfb7a92f763" />
 
 
 🧠 Smart Save Detection
@@ -29,6 +30,7 @@ Restore any backup instantly
 Restore latest healthy backup automatically
 Safety backup created before restore
 
+<img width="1413" height="928" alt="image" src="https://github.com/user-attachments/assets/3d5087e8-4342-4df8-82d5-1535b97ab6c7" />
 
 🧪 Backup Integrity Check
 Verifies backups using checksum
